@@ -1,4 +1,4 @@
-import React from "react";
+ import React from "react";
 
 function Profile() {
     return <div>This is the profile page</div>;
